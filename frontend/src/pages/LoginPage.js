@@ -285,7 +285,7 @@ const LoginPage = ({ role }) => {
 export default LoginPage
 
 const StyledLink = styled(Link)`
-  margin-top: 9px;
-  text-decoration: none;
-  color: #7f56da;
+    margin-top: 9px;
+    text-decoration: none;
+    color: #7f56da;
 `;
